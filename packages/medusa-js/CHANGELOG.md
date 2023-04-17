@@ -1,5 +1,12 @@
 # Change Log
 
+## 2.0.3
+
+### Patch Changes
+
+- Updated dependencies [[`d2826872f`](https://github.com/medusajs/medusa/commit/d2826872fe487a027b677aeb43704f761a6b4e80)]:
+  - @medusajs/medusa@1.8.3
+
 ## 2.0.2
 
 ### Patch Changes

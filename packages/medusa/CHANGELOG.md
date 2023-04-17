@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.8.3
+
+### Patch Changes
+
+- [#3845](https://github.com/medusajs/medusa/pull/3845) [`d2826872f`](https://github.com/medusajs/medusa/commit/d2826872fe487a027b677aeb43704f761a6b4e80) Thanks [@pevey](https://github.com/pevey)! - Bump package versions to address security vulnerabilities
+
 ## 1.8.2
 
 ### Patch Changes
